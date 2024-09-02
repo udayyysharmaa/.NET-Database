@@ -84,6 +84,11 @@ To install MongoDB, execute the following commands in your terminal:
    ```bash
    mongosh
    ```
+### For Dotnet
+   ```bash
+   dotnet build
+   dotnet run
+   ```
 
 3. **Manipulate Databases and Collections:**
 
